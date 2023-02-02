@@ -21,5 +21,15 @@ public class User {
     private String lastname;
 	private String username;
 	private String password;
+	public String getPassword() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public String getUsername() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	
 
 }
